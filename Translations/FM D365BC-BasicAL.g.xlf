@@ -1,0 +1,369 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="FM D365BC-BasicAL">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1766313566 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FM Example Setup table - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1766313566 - Field 2908765792 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Example Nos.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FM Example Setup table - Field Example Nos. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1766313566 - Field 2577258005 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Nos.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FM Example Setup table - Field Document Nos. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 774512026 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FM Course - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 774512026 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FM Course - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 774512026 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FM Course - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 774512026 - Field 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FM Course - Field Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 774512026 - Field 1637095154 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Duration</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FM Course - Field Duration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 774512026 - Field 3635338911 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FM Course - Field Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 774512026 - Field 1090351696 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Active</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FM Course - Field Active - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 774512026 - Field 4012889672 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Difiiculty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FM Course - Field Difiiculty - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 774512026 - Field 1353320629 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Passing Rate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FM Course - Field Passing Rate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 774512026 - Field 2825077820 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Instructor Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FM Course - Field Instructor Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 774512026 - Field 1054423462 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Instructor Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FM Course - Field Instructor Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3623730592 - Field 329134311 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FM Customer Overview - Field Entry No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3623730592 - Field 627846863 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FM Customer Overview - Field Customer No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3623730592 - Field 1171137197 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FM Customer Overview - Field Customer Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3623730592 - Field 2720485332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FM Customer Overview - Field Source Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3623730592 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FM Customer Overview - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3623730592 - Field 896323561 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Run Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FM Customer Overview - Field Last Run Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3623730592 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Overview</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FM Customer Overview - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 399265473 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FM Example Master Data - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 399265473 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FM Example Master Data - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 399265473 - Field 1999407879 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Example Type Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FM Example Master Data - Field Example Type Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 399265473 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FM Example Master Data - Field No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1573835389 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FM Example Type - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1573835389 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FM Example Type - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1631965021 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FM Document Header - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1631965021 - Field 580412389 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FM Document Header - Field Document Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1631965021 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FM Document Header - Field No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1631965021 - Field 3710982960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FM Document Header - Field Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1631965021 - Field 2682724073 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Printed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FM Document Header - Field No. Printed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3436524854 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FM Document Line - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3436524854 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FM Document Line - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3436524854 - Field 4174576881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Example No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FM Document Line - Field Example No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3436524854 - Field 3323572827 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Egg Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FM Document Line - Field Egg Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3436524854 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FM Document Line - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3436524854 - Field 1380701962 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Example Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FM Document Line - Field Example Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2303378337 - Method 1439528424 - NamedType 1398852855" maxwidth="250" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The existing picture will be replaced. Do you want to continue?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FM Image Management - Method ImportItemPicture - NamedType OverrideImageQst</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 351891326 - NamedType 887656736" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to reset the %1 to %2 for these customers?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FM Reset Customer Credit Limit - NamedType ResetCreditLimitMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 351891326 - NamedType 3821458646" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Action Completed Successfully</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FM Reset Customer Credit Limit - NamedType ActionCompletedMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 3123554440 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Example Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FM Example Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3898951252 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Course Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FM Couse Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3898951252 - Control 141525885 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FM Couse Card - Control Genral - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2724827826 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Course List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FM Couse List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2724827826 - Control 141525885 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FM Couse List - Control Genral - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3194150193 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Course Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FM Data Type Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2124246762 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expression Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FM Expressions Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2124246762 - Control 151815974 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value 1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FM Expressions Card - Control Value1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2124246762 - Control 2533693419 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value 2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FM Expressions Card - Control Value2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2124246762 - Action 1561766673 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Execute</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FM Expressions Card - Action Execute - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2353001051 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Statement Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FM Statements Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 382828414 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Armstrong Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FM Armstrong Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3850041513 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Example Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FM Example Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2905505915 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Example List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FM Example List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2617792852 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Example Types</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FM Example Types - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 902631495 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Line Subpage</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FM Document Line Subpage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3512977287 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Document List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2948599764 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FM Document Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3893543809 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Example Type card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FM Example Type Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1253669521 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reset Customer Credit Limit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FM Rest Cust Cred Limit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3180281819 - NamedType 1595788255" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Are you sure that you want to set the %1 to %2?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FM Credit Limit Page Extension - NamedType ComfirmationMsg</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3180281819 - NamedType 64263985" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>The credit limit was rounded to %1 to comply with company policies.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FM Credit Limit Page Extension - NamedType Text2</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3180281819 - NamedType 701960602" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>The credit limit is up to date.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FM Credit Limit Page Extension - NamedType Text3</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 169220513 - Action 4052889002 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Export to XML</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FM Customer XML Extension - Action Export to XML - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 169220513 - Action 3985604347 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Export to CSV</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FM Customer XML Extension - Action Export to CSV - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1653606341 - Action 1439528424 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Import Item Picture</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FM Item Card Extension - Action ImportItemPicture - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1653606341 - Action 3313894911 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Export Item Picture</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FM Item Card Extension - Action ExportItemPicture - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1780662254 - Field 1789936716 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Facebook</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FM Credit Limit Extension - Field Facebook - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1780662254 - Field 3628806167 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Twitter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FM Credit Limit Extension - Field Twitter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1780662254 - Field 1477693348 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Instagram</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FM Credit Limit Extension - Field Instagram - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1780662254 - Field 3585672653 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Linkdin</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FM Credit Limit Extension - Field Linkdin - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
